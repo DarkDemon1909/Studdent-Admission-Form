@@ -23,3 +23,6 @@ HTML5: For the structure and content of the form.
 CSS3: For styling the form, including the layout, colors, and responsive design.
 
 JavaScript : For all the client-side logic, including event handling and form validation.
+
+<img width="832" height="804" alt="image" src="https://github.com/user-attachments/assets/1cbc9e38-1ff7-465d-b81a-9774bfedad87" />
+
