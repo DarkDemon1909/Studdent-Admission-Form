@@ -1,4 +1,4 @@
-Student Admission Form
+**Student Admission Form**
 
 This project is a simple, single-page web application featuring a student admission form. It is built entirely with HTML, CSS, and JavaScript, focusing on robust client-side validation to ensure a good user experience. The form provides real-time feedback to the user by displaying clear error messages for invalid fields, and shows a success message only when all fields are correctly filled out.
 
